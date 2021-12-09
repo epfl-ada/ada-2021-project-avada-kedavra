@@ -2,9 +2,8 @@
 
 # Abstract 
 
-Despite the scientifically esthablished climate emergency, there is still a lack of general action fighting against global warming, and a non-negligeable climatesceptical tendancy in the population. As a large part of the information the population receives is in the press, we would like to understand how is the environmental topic tackled in this media. The aim of the project is to provide deep insigth on who is talking about climate change, and how. Indeed, we would like to first understand what caracteristics make a person more inclined to talk about climate. Then, we would like to assess what proportion of the environmental mediac representation is actually taken by climat denial. This will enable us to have a global vizualisation of what kind of information is made available to the public media, and thus a better understanding of why so many people are not concerned about climate change.  
-
-
+Despite the scientifically established climate emergency, there is still a lack of action against global warming. As a large part of the information the population receives is in the press, we would like to understand how is the environmental topic tackled in this media. The aim of the project is to provide deep insight on the mediatic representation of climate-related issues. Indeed, we would like to first understand what characteristics make a person represented in the public climate debate, and if some communities are excluded from it. This will help us have some insight on the most climate-related mediated opinions in the press. As the climate crisis is a rapidly evolving topic, we would also like to investigate its evolution in the press. This will enable us to have a global visualization of the information made available to the public across time, and thus a better understanding of why so many people are not concerned about climate change.
+ 
 # Research Questions
 
  - [x] What is the current typical profile of a person talking about climate in the media ? Is it the same for other topic ? (Comparaison entre les caractéristiques de personnes les plus représentées dans le QuoteBank vs celles qui parlent du climat) (comparaison des nationalités avec une carte du monde) 
@@ -19,7 +18,7 @@ Despite the scientifically esthablished climate emergency, there is still a lack
  
  - [x] What is the most represented climate crisis-related topic along the years ? Does it show an evolution in the general opinions made publicly avaiblable by mainstream media ? (Trouver les mots reliés au climat les plus représentés dans les quotes chaque années)
 
- 
+- [x] How do the education and occupation of people represented in the media impact their opinion on the climate crisis ? (Regarder les mots les plus représentés dans les quotes selon les études et le metier des personnes ? Scientifique vs politique vs activiste)
 # Dataset 
 
 ### Quotebank dataset 
