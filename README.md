@@ -7,16 +7,15 @@ Despite the scientifically esthablished climate emergency, there is still a lack
 
 # Research Questions
 
- - [x] What caracteristics of a person make them more inclined to talk about climate change ? to be climate sceptic ? 
+ - [x] What is the typical profile of a person talking about climate in the media ? Is it the same than for other topic ? (Comparaison entre les caractéristiques de personnes les plus représentées dans le QuoteBank vs celles qui parlents du climat)
  
- - [x] Who talks the most about climat change ?
+ - [x] Is there any temporal evolution in the mediatic coverage of the climate crisis ? If so, does it correlate with specific events ? 
  
- - [x] Does the concern about climate change differ according to the nationality, profession, education, political party, age or gender of the speakers ?  
+ - [x] Who are the top 10 people that talks the most abuot climate change over the year ? Does it show an evolution in the general opinions made publicly avaiblable by mainstream media ? 
  
- - [x] What is the proportion of climat-sceptic representation is the media ? 
+ - [x] Are some communities excluded from the mediatic discussion surround climate change ? (Comparer la proportion de chacun des communautés dans QB en général avec la propotion des communautés dans les phrases qui parlent du climat)
  
- - [x] How climate representation does change according to natural catastroph ? 
- 
+ - [x] What is the most represented climate crisis-related topic along the years ? Does it show an evolution in the general opinions made publicly avaiblable by mainstream media ? (Trouver les mots reliés au climat les plus représentés dans les quotes chaque années)
 
  
 # Dataset 
