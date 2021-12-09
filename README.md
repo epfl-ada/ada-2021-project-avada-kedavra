@@ -7,11 +7,11 @@ Despite the scientifically esthablished climate emergency, there is still a lack
 
 # Research Questions
 
- - [x] What is the typical profile of a person talking about climate in the media ? Is it the same than for other topic ? (Comparaison entre les caractéristiques de personnes les plus représentées dans le QuoteBank vs celles qui parlents du climat)
+ - [x] What is the typical profile of a person talking about climate in the media ? Is it the same for other topic ? (Comparaison entre les caractéristiques de personnes les plus représentées dans le QuoteBank vs celles qui parlent du climat) (comparaison des nationalités avec une carte du monde) 
  
  - [x] Is there any temporal evolution in the mediatic coverage of the climate crisis ? If so, does it correlate with specific events ? 
  
- - [x] Who are the top 10 people that talks the most abuot climate change over the year ? Does it show an evolution in the general opinions made publicly avaiblable by mainstream media ? 
+ - [x] Who are the top 10 people that talks the most about climate change over the year ? Does it show an evolution in the general opinions made publicly avaiblable by mainstream media ? 
  
  - [x] Are some communities excluded from the mediatic discussion surround climate change ? (Comparer la proportion de chacun des communautés dans QB en général avec la propotion des communautés dans les phrases qui parlent du climat)
  
