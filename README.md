@@ -16,7 +16,6 @@ Despite the scientifically established climate emergency, there is still a lack 
   
 - [x] What is the main sentiment communicated in the media by different types of speakers concerning the climate crisis ? 
 
-voilà on a revu les questions avec alicia pour être plus large
 # Dataset 
 
 ### Quotebank dataset 
