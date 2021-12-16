@@ -26,7 +26,11 @@ This dataset is a corpus of quotations that we identified as climate-change-rela
 ### Speaker dataset
 This dataset is the list of all the speakers that appear in the Quotebank dataset, along with the caracterists, such as nationality, gender, education, political party, date of birth, ethinc group and religion. We also enriched this data with one more column, containing boolean values describing whether this person talk about climate or not. The first value is True if any quote from this speaker is found in the Climate related Dataset. For futherer analysis, we kept the 20 most represented features for each column and turned them into one hot columns. This enable us to handle the categorical datas.
 
-Link to all our obtained data: METTRE LE LIEN
+### Logistic regression training datasets
+Theses two datasets are used to train and test the logistic regression model used to classify our quotes as climate related or not. They were found on the article "ClimaText: A Dataset for Climate Change Topic Detection by Francesco S. Varini, Jordan Boyd-Graber, Massimiliano Ciaramita, Markus Leippold." These datasets are composed of sentences labeled as climate related or not. They were obtained using Active Learning on previously existing datasets. 
+
+Link to all our obtained data: https://drive.google.com/drive/folders/1kafZtuinbhqQUU2syhdQeBHnJ9_C5E6E?usp=sharing
+
 
 # Methods
 
