@@ -6,15 +6,13 @@ Despite the scientifically established climate emergency, there is still a lack 
  
 # Research Questions
  
- - [x] Is there any temporal evolution in the mediatic coverage of the climate crisis ? If so, does it correlate with specific events ? 
+ - [x] Is there any temporal evolution in the mediatic coverage of the climate crisis ? 
  
- - [x] Is there an evolution in the general climate-related opinions made publicly avaiblable by mainstream media ? What is the current typical profile of a person talking about climate in the media ? Is it the same for other topic ? Are some communities excluded from the mediatic discussion surround climate change ?
- 
- - [x]  Based on the evolution of the profile of a person talking about climate in the media, can we predict what characteristics will a climate-involved person have in the future ?
+- [x] What are the main typical profiles of people talking about climate in the media ? Who in the media represent the most this subject over time ?   
 
-- [x] How do the education and occupation of people represented in the media impact their opinion on the climate crisis ? (Regarder les mots les plus représentés dans les quotes selon les études et le metier des personnes ? Scientifique vs politique vs activiste)
-  
-- [x] What is the main sentiment communicated in the media by different types of speakers concerning the climate crisis ? 
+- [x] What is the main sentiment communicated in the media over time concerning the climate crisis ? 
+ 
+- [x]  Based on the evolution of the profile of a person talking about climate in the media, can we predict what characteristics will a climate-involved person have in the future ?
 
 # Dataset 
 
