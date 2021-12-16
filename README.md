@@ -29,7 +29,7 @@ This dataset is the list of all the speakers that appear in the Quotebank datase
 ### Logistic regression training datasets
 Theses two datasets are used to train and test the logistic regression model used to classify our quotes as climate related or not. They were found on the article "ClimaText: A Dataset for Climate Change Topic Detection by Francesco S. Varini, Jordan Boyd-Graber, Massimiliano Ciaramita, Markus Leippold." These datasets are composed of sentences labeled as climate related or not. They were obtained using Active Learning on previously existing datasets. 
 
-Link to all our obtained data: https://drive.google.com/drive/folders/1kafZtuinbhqQUU2syhdQeBHnJ9_C5E6E?usp=sharing
+Link to all our obtained data: https://drive.google.com/drive/folders/1bDHuU1FBux-SZB83-lkrha-av1f5QAlu?usp=sharing
 
 
 # Methods
