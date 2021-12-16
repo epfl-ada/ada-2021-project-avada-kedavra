@@ -2,7 +2,7 @@
 
 # Abstract 
 
-Despite the scientifically established climate emergency, there is still a lack of action against global warming. The aim of tis project is to provide deep insight on the mediatic representation of climate-related issues. We would like to first investiguate the temporal evolution of this climate change topic in the mediatic coverage and understand the main characteristics of people mentioning it. Climate change is a very touchy subject and we want to have a little insight of the general feeling toward this subject.  We would also like to see if it's possible, based on the climate-involved people profil, to predict which characteristics predispose the speaker to tackle the climate change topic.
+Despite the scientifically established climate emergency, there is still a lack of action against global warming. The aim of this project is to provide deep insight on the mediatic representation of climate-related issues. We would like to first investigate the temporal evolution of the climate change topic in the media, then understand the main characteristics of people mentioning it, and their opinions. Climate change is a very polarizing subject, so we would like to look into the general feeling toward this topic. We would also like to, if possible, predict which characteristics predispose the speaker to get involved in this debate based on the climate-involved people profil.
 
 # Research Questions
  
@@ -12,12 +12,12 @@ Despite the scientifically established climate emergency, there is still a lack 
 
 - [x] What is the main sentiment communicated in the media over time concerning the climate crisis ? 
  
-- [x]  Based on the evolution of the profile of a person talking about climate in the media, can we predict what characteristics will a climate-involved person have in the future ?
+- [x]  Based on the profile of person talking about climate in the media, can we predict what characteristics will a climate-involved person have in the future ?
 
 # Dataset 
 
 ### Quotebank dataset 
-It's a corpus of quotations attributed to the speakers who uttered them, extracted from 162 million English news articles published between 2015 and 2020. 
+It's a corpus of quotations attributed to the speakers who uttered them, extracted from 162 million English news articles published in English between 2015 and 2020. 
 
 #### Clean and filtered Quotebank Climate-related dataset
 This is a QuoteBank subdataset.
