@@ -41,10 +41,10 @@ We started by extracting a subdata (`quotes`) from the quotebank dataset accordi
 
 Research question 1: In order to visualize the temporal evolution of the environmental topic, we plotted the distribution of climate-change-related quotes over months and years. These data are taken from the `quotes` dataframe. 
 
-Research question 2:To obtain the top 20 main features of each columns we exploded the values for each attribut of the speakers dataframe and plotted them in barplots.
+Research question 2:To obtain the top 20 main features of each column we exploded the values for each attribut of the speakers dataframe and plotted them in barplots.
 
-Research question 3: We used the vaderSentiment analysis in order to obtain the rates of positive and negative emotions in the quotes from the quotes dataframe over time. We extracted and visualized the main words of the highest positive and negative rated quotes. This enabled us to confirm our general sentiment analysis. 
-To investiguate more precisely some features, we took the two main party of america from the speakers dataframe and analysised their general feeling. 
+Research question 3: We used the VADER Sentiment analysis in order to obtain the rates of positive and negative emotions in the quotes from the quotes dataframe over time. We extracted and visualized the main words of the highest positive and negative rated quotes. This enabled us to confirm our general sentiment analysis. 
+To investiguate more precisely some features, we took the two main parties of US from the speakers dataframe and analyzed their general feeling. 
 
 Research question 4: We performed some classification tasks on our dataframe containing the categorical datas (extraction of data from the one hot file). First we fitted a baseline model in order to know in what direction we must go. Then, following a comparison between PCA and standarization we perfomed a new logistic model. We then tested the importance of each element of each features by fitting several logistic regression models and select the best one giving the ROC_AUC score.
 
