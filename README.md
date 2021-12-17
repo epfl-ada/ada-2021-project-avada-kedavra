@@ -12,7 +12,7 @@ Despite the scientifically established climate emergency, there is still a lack 
 
 - [x] What is the main sentiment communicated in the media over time concerning the climate crisis ? 
  
-- [x]  Based on the profile of person talking about climate in the media, can we predict what characteristics will a climate-involved person have in the future ?
+- [x] Based on the profile of person talking about climate in the media, can we predict what characteristics will a climate-involved person have in the future ?
 
 # Dataset 
 
@@ -21,10 +21,10 @@ It's a corpus of quotations attributed to the speakers who uttered them, extract
 
 #### Clean and filtered Quotebank Climate-related dataset
 This is a QuoteBank subdataset.
-This dataset is a corpus of quotations that we identified as climate-change-related, extracted from the entire Quotebank dataset. It results from the cleaning and filtering of the Quotebank dataset. The filtering to obtain climate-related quotes was done using a list of keywords, that was extracted using logistic regression and the two given test sets. 
+This dataset is a corpus of quotations that we identified as climate-change-related, extracted from the entire Quotebank dataset. It results from the cleaning and filtering of the Quotebank dataset. The filtering to obtain climate-related quotes was done using a list of keywords that was extracted using logistic regression and the two given test sets. 
 
 ### Speaker dataset
-This dataset is the list of all the speakers that appear in the Quotebank dataset, along with the caracterists, such as nationality, gender, education, political party, date of birth, ethinc group and religion. We also enriched this data with one more column, containing boolean values describing whether a person talks about climate or not. The first value is True if any quote from this speaker is found in the Climate-related Dataset. For futherer analysis, we kept the 20 most represented features for each column and turned them into one hot columns. This enable us to handle the highly diverse categorical data.
+This dataset is the list of all the speakers that appear in the Quotebank dataset, along with the caracterists, such as nationality, gender, education, political party, date of birth, ethinc group and religion. We also enriched this data with one more column, containing boolean values describing whether a person talks about climate or not. The first value is True if any quote from this speaker is found in the Climate-related Dataset. For futherer analysis, we kept the 20 most represented features for each column and turned them into one hot columns. This enabled us to handle the highly diverse categorical data.
 
 ### Logistic regression training datasets
 Theses two datasets are used to train and test the logistic regression model used to produce the keyword list needed to classify our quotes as climate related or not. They were found on the article "ClimaText: A Dataset for Climate Change Topic Detection by Francesco S. Varini, Jordan Boyd-Graber, Massimiliano Ciaramita, Markus Leippold." These datasets are composed of sentences labeled as climate related or not. They were obtained using Active Learning on previously existing datasets. As they were unbalanced, we had to mix and modify them a bit before using them. 
@@ -38,12 +38,12 @@ We started by extracting a subdata (`quotes`) from the quotebank dataset accordi
 
 Research question 1: In order to visualize the temporal evolution of the environmental topic, we plotted the distribution of climate-change-related quotes over months and years. These data are taken from the `quotes` dataframe. 
 
-Research question 2:To obtain the top 20 main features of each columns we exploded the values for each attribut of the speakers dataframe and plot them in barplots.
+Research question 2:To obtain the top 20 main features of each columns we exploded the values for each attribut of the speakers dataframe and plotted them in barplots.
 
-Research question 3: We used the vaderSentiment analysis in order to obtain the rates of positive and negative emotions in the quotes from the quotes dataframe over time. We extract the main words of the highest positive and negative rated quotes. This enable us to confirm our general sentiment analysis. 
-To investiguate more precisely some features, we take the two main party of america from the speakers dataframe and analysis their general feeling. 
+Research question 3: We used the vaderSentiment analysis in order to obtain the rates of positive and negative emotions in the quotes from the quotes dataframe over time. We extracted and visualized the main words of the highest positive and negative rated quotes. This enabled us to confirm our general sentiment analysis. 
+To investiguate more precisely some features, we took the two main party of america from the speakers dataframe and analysised their general feeling. 
 
-Research question 4: We perform some classification tasks on our dataframe containing the categorical datas (extraction of data from the one hot file). First we fit a baseline model in order to know in what direction we must go. Then, after a comparison between PCA and standarization we perfom a new logistic model. We then test the importance of each element of each features by fitting several logistic regression models.
+Research question 4: We performed some classification tasks on our dataframe containing the categorical datas (extraction of data from the one hot file). First we fitted a baseline model in order to know in what direction we must go. Then, following a comparison between PCA and standarization we perfomed a new logistic model. We then tested the importance of each element of each features by fitting several logistic regression models.
 
 
 
