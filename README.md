@@ -41,7 +41,7 @@ We started by extracting a subdata (`quotes`) from the Quotebank dataset accordi
 
 Research question 1: In order to visualize the temporal evolution of the environmental topic, we plotted the distribution of climate-change-related quotes over months and years. These data are taken from the `quotes` dataframe. 
 
-Research question 2: To obtain the top 20 main features of each column we exploded the values for each attribute of the speakers dataframe and plotted them in barplots.
+Research question 2: To obtain the top 20 main features of each column we exploded the values for each attribute of the speakers dataframe and plotted them in barplots. We also plot the occurences of the most mediatic speakers over the years.
 
 Research question 3: We used the VADER Sentiment analysis in order to obtain the rates of positive and negative emotions in the quotes from the quotes dataframe over time. We extracted and visualized the main words of the highest positive and negative rated quotes. This enabled us to confirm our general sentiment analysis. 
 To investigate more precisely some features, we took the two main parties of US from the speakers dataframe and analyzed their general feeling. 
@@ -50,10 +50,10 @@ Research question 4: We performed some classification tasks on our dataframe con
 
 # Members Contribution
 
-Maria: Sentimental Analysis coding , Handling categorical data coding, classification interpretation 
+Maria: Sentimental Analysis coding , Handling categorical data coding, Classification interpretation 
 
 Alicia: Keywords extraction coding, Classification coding , Notebook Organization
 
-Virginie: Preliminary data analysis, Visualization, Problem formulation
+Virginie: Preliminary data analysis, Visualization, Problem formulation, Interpretation of Top Speakers/Quotes
 
 Anissa : Web designer, Interpretation of our results
