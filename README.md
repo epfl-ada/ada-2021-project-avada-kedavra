@@ -48,3 +48,9 @@ To investiguate more precisely some features, we took the two main parties of US
 
 Research question 4: We performed some classification tasks on our dataframe containing the categorical datas (extraction of data from the one hot file). First we fitted a baseline model in order to know in what direction we must go. Then, following a comparison between PCA and standarization we perfomed a new logistic model. We then tested the importance of each element of each features by fitting several logistic regression models and select the best one giving the ROC_AUC score.
 
+# Members Contribution
+
+Maria : Sentimental Analysis coding , Handling categorical data coding, classification interpretation 
+Alicia : Keywords extraction coding, Classification coding , Notebook Organisation
+Virignie : Preliminary data analysis, Visualization, Problem formulation
+Anissa  : Web designer, Interpratation of our results
