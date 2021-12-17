@@ -12,7 +12,7 @@ Despite the scientifically established climate emergency, there is still a lack 
 
 - [x] What is the main sentiment communicated in the media over time concerning the climate crisis ? 
  
-- [x] Based on the profile of person talking about climate in the media, can we predict what characteristics will a climate-involved person have in the future ?
+- [x] Based on the profile of people talking about climate in the media, can we predict what characteristics will a climate-involved person have in the future ?
 
 # Datastory
 Our Data Story can be found on https://anissaha.github.io/
