@@ -34,13 +34,16 @@ Link to all our obtained data: https://drive.google.com/drive/folders/1bDHuU1FBu
 
 # Methods
 
-- In order to visualize the temporal evolution of the climate change topic, we plotted the distributon of quotes over months and years.
+We extract a subdata (quotes) from the quotebank dataset according to a keywords list. This keyword list is made from a logistic regression trained two external data sets _Wiki_train.tsv_ and _train_1-tsv_, it represents the main words from climate related quotes. We construct a new data set (speakers) from _wikidata_labels_descriptions_quotebank.csv_ clean and filter it. For further anayslis we create a _one_hot.bz2_ file containing our categorical data of interest according to the 20 main elements of each feature (columns). 
 
-- To obtain the top 20 main features of each columns we exploded the values for each attribut and plot them in barplots.
+Research question 1: In order to visualize the temporal evolution of the climate change topic, we plot the distributon of quotes over months and years. These data are taken from the quotes dataframe. 
 
-- We used the vaderSentiment analysis in order to obtain the rates of positive and negative emotions in the quotes over time
+Research question 2:To obtain the top 20 main features of each columns we exploded the values for each attribut of the speakers dataframe and plot them in barplots.
 
-- To perform classification, we .....
+Research question 3: We used the vaderSentiment analysis in order to obtain the rates of positive and negative emotions in the quotes from the quotes dataframe over time. We extract the main words of the highest positive and negative rated quotes. This enable us to confirm our general sentiment analysis. 
+To investiguate more precisely some features, we take the two main party of america from the speakers dataframe and analysis their general feeling. 
+
+Research question 4: We perform some classification tasks on our dataframe containing the categorical datas (extraction of data from the one hot file). First we fit a baseline model in order to know in what direction we must go. Then, after a comparison between PCA and standarization we perfom a new logistic model. We then test the importance of each element of each features by fitting several logistic regression models.
 
 
 
