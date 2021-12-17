@@ -51,6 +51,9 @@ Research question 4: We performed some classification tasks on our dataframe con
 # Members Contribution
 
 Maria : Sentimental Analysis coding , Handling categorical data coding, classification interpretation 
+
 Alicia : Keywords extraction coding, Classification coding , Notebook Organisation
+
 Virignie : Preliminary data analysis, Visualization, Problem formulation
+
 Anissa  : Web designer, Interpratation of our results
