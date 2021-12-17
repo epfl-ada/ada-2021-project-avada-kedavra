@@ -43,7 +43,5 @@ Research question 2:To obtain the top 20 main features of each columns we explod
 Research question 3: We used the vaderSentiment analysis in order to obtain the rates of positive and negative emotions in the quotes from the quotes dataframe over time. We extracted and visualized the main words of the highest positive and negative rated quotes. This enabled us to confirm our general sentiment analysis. 
 To investiguate more precisely some features, we took the two main party of america from the speakers dataframe and analysised their general feeling. 
 
-Research question 4: We performed some classification tasks on our dataframe containing the categorical datas (extraction of data from the one hot file). First we fitted a baseline model in order to know in what direction we must go. Then, following a comparison between PCA and standarization we perfomed a new logistic model. We then tested the importance of each element of each features by fitting several logistic regression models.
-
-
+Research question 4: We performed some classification tasks on our dataframe containing the categorical datas (extraction of data from the one hot file). First we fitted a baseline model in order to know in what direction we must go. Then, following a comparison between PCA and standarization we perfomed a new logistic model. We then tested the importance of each element of each features by fitting several logistic regression models and select the best one giving the ROC_AUC score.
 
